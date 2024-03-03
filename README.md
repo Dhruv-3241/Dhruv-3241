@@ -2,7 +2,7 @@
 <h1 align="center" color="#8700ff">Hello There 
 </h1>
 
-[![Hi](https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&duration=3000&color=8700FF&background=F8FF0000&vCenter=true&multiline=true&width=500&height=200&lines=-%3E+Hi+I+am+Dhruv;-%3E+I+am+20+years+old;-%3E+I+am+not+so+much+of+a+developer;-%3E+Just+Exploring+here)](https://github.com/Dhruv-3241)
+[![Hi](https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&duration=3000&color=8700FF&background=F8FF0000&vCenter=true&multiline=true&width=500&height=200&lines=-%3E+Hi+I+am+Dhruv;-%3E+I+am+21+years+old;-%3E+Just+Exploring+here+to+create+new+and+interesting+stuff)](https://github.com/Dhruv-3241)
 
 <h1 align="center" color="#8700ff">Description Badges
 </h1>
@@ -31,6 +31,8 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![ReactJS](https://img.shields.io/badge/react-%23000000.svg?style=for-the-badge&logo=reactjs&logoColor=white)
+![MongoDb](https://img.shields.io/badge/react-%23000000.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![NodeJS](https://img.shields.io/badge/react-%23000000.svg?style=for-the-badge&logo=nodejs&logoColor=white)
 	      
 ### Socials
 [![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/dhruv_2134)
