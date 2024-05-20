@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/115386517/225841791-e6eb2fcf-6de1-45ec-a5e8-0c321f0af245.gif)](https://github.com/Dhruv-2134)
+[![MasterHead](https://user-images.githubusercontent.com/115386517/225841791-e6eb2fcf-6de1-45ec-a5e8-0c321f0af245.gif)](https://github.com/Dhruv-3241)
 <h1 align="center">Hi 👋, I'm Dhruv Srivastava</h1>
 <h3 align="center">A passionate Frontend and Blockchain developer</h3>
 
@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **NodeJS, Solidity**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-plum-seven-95.vercel.app/](https://portfolio-plum-seven-95.vercel.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://portfolio-plum-seven-95.vercel.app/)
 
 - 💬 Ask me about **React, MongoDB**
 
@@ -82,4 +82,4 @@
 <p></br></br></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruv-3241&show_icons=true&locale=en&layout=compact" alt="dhruv-3241" /></p>
 <p></br></br></p>
-<p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dhruv-2134&theme=dark"/> </p>
+<p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dhruv-3241&theme=dark"/> </p>
