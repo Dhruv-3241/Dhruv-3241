@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **NodeJS, Solidity**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://portfolio-plum-seven-95.vercel.app/)
+- 👨‍💻 All of my projects are available at my [Portfolio](https://portfolio-plum-seven-95.vercel.app/).
 
 - 💬 Ask me about **React, MongoDB**
 
